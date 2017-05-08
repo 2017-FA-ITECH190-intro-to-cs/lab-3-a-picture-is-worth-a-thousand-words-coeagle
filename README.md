@@ -4,7 +4,7 @@
 
 **Purpose:** The purpose of this lab is to start playing with basic _JavaScript_ and see some of the ways in which it can interact with _HTML_.
 
-**Practice:** Study the [Basic JavaScript Demos](itech190.erickuha.com). Make sure you understand how they work. Ask questions if you are uncertain about anything at all.
+**Practice:** Study the [Basic JavaScript Demos](http://itech190.erickuha.com). Make sure you understand how they work. Ask questions if you are uncertain about anything at all.
 
 **Instructions:** Create a web page called `images.html` that contains the capybara image and the hawk image. The images should be centered on the page, the capybara should be to the left of the hawk. They are both located in the assignment repository root.
 
