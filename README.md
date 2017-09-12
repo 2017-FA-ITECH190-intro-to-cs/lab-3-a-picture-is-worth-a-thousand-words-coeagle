@@ -12,6 +12,6 @@ Next, set things up (write some JavaScript) so that the following happens:
 
 * When the mouse moves over the image on the left (initially the capybara), the image on the right (initially the hawk) changes to the capybara.
 * When the mouse is not over the image on the left, the right image reverts to being the hawk.
-* When the mouse is moved over the image on the right (the hawk), the two images swap places. That is, the heart should become the left image and the capybara should become the right image. _Note:_ that there is no further action associated with this. They should switch and it should be permanent.
+* When the mouse is moved over the image on the right (the hawk), the two images swap places. That is, the hawk should become the left image and the capybara should become the right image. _Note:_ that there is no further action associated with this. They should switch and it should be permanent.
 
 Commit and push your repo when you are finished.
